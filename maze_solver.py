@@ -1,6 +1,6 @@
 # Depth First Search and Breadth First Search 
 # for solving a maze in the terminal 
- 
+
 import maze_generator as mg
 from random import sample
 
